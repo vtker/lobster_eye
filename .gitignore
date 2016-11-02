@@ -1,0 +1,5 @@
+lobster_eye_build/
+*.exe
+*.obj
+*.swp
+*.*~
