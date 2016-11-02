@@ -1,5 +1,9 @@
-lobster_eye_build/
+lobster_eye-build/
+*build/
 *.exe
 *.obj
 *.swp
 *.*~
+./CMakeFiles
+./build
+./lobster_eye/build
